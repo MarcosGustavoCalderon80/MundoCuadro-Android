@@ -1,0 +1,17 @@
+ABRIR EN ANDROID STUDIO
+=======================
+
+1) Abrí Android Studio.
+2) Elegí Open.
+3) Seleccioná ESTA carpeta "android".
+4) Si pide SDK, instalá Android 16 (API 36).
+5) Esperá el Gradle Sync.
+6) Build > Build APK(s).
+
+Para probar en un teléfono:
+- activá Opciones de desarrollador + Depuración USB,
+- conectalo por USB,
+- seleccioná el dispositivo y presioná Run.
+
+Para Google Play hay que generar un AAB RELEASE firmado con tu keystore.
+El APK Debug sirve para instalar y probar directamente.

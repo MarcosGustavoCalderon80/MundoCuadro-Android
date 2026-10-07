@@ -1,0 +1,15 @@
+
+/* Keyboard/gamepad-style menu focus */
+.screen.active button:focus-visible,
+.screen.active select:focus-visible,
+.screen.active input:focus-visible,
+.screen.active [tabindex]:focus-visible{
+  outline:3px solid #6ef4ff;
+  outline-offset:3px;
+  box-shadow:0 0 0 5px rgba(59,219,255,.18),0 0 26px rgba(59,219,255,.42);
+}
+.screen.active .keyboard-focus{
+  outline:3px solid #6ef4ff !important;
+  outline-offset:3px;
+  box-shadow:0 0 0 5px rgba(59,219,255,.18),0 0 26px rgba(59,219,255,.42) !important;
+}

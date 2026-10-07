@@ -1,0 +1,12 @@
+{
+  "worlds": [
+    {"id":1,"name":"Mundo Origen","subtitle":"Praderas flotantes","theme":"meadow","accent":"#46e1e6","levels":["El Portal Dormido","Sendero de Hojas","Puentes del Arroyo","Colinas del Eco","Guardián de la Pradera"]},
+    {"id":2,"name":"Mundo Subterráneo","subtitle":"Minas y cristal","theme":"mine","accent":"#ffb84b","levels":["Entrada a la Mina","Bosque de Cristal","Hongos del Subsuelo","Forja Profunda","Rey de la Cantera"]},
+    {"id":3,"name":"Ruinas Resonantes","subtitle":"Máquinas antiguas","theme":"ruins","accent":"#ff7f66","levels":["Entrada Resonante","Templo de Engranajes","Cantera Suspendida","Fábrica Antigua","Coloso de las Ruinas"]},
+    {"id":4,"name":"Islas del Cielo","subtitle":"Nubes y neón","theme":"sky","accent":"#66b8ff","levels":["Nubes de Cristal","Tormenta Ascendente","Jardines del Cielo","Circuito Neón","Centinela Celeste"]},
+    {"id":5,"name":"Reino Elemental","subtitle":"Fuego y hielo","theme":"elemental","accent":"#ff667e","levels":["Río de Magma","Chimeneas del Volcán","Galería de Hielo","Glaciar Quebrado","Guardián Elemental"]},
+    {"id":6,"name":"Reino Imaginado","subtitle":"Juguetes y sueños","theme":"toy","accent":"#ff7fd5","levels":["Ciudad de Bloques","Valle de Caramelo","Torre del Reloj","Sueño de Colores","Rey de los Juguetes"]},
+    {"id":7,"name":"Abismo del Vacío","subtitle":"Pantanos y cosmos","theme":"void","accent":"#a96cff","levels":["Borde del Abismo","Pantano Invertido","Órbita Perdida","Grieta Cósmica","Titán del Vacío"]},
+    {"id":8,"name":"Ciudadela del Núcleo","subtitle":"El portal final","theme":"citadel","accent":"#9ee9ff","levels":["Distrito Exterior","Murallas del Núcleo","Avenida Resonante","Cámara del Portal","Guardián Supremo"]}
+  ]
+}

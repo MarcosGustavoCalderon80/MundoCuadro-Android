@@ -1,0 +1,22 @@
+{
+  "name": "Mundo Cuadro REBORN — Living Depths",
+  "short_name": "Mundo Cuadro",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#061226",
+  "theme_color": "#061226",
+  "description": "REBORN: objetivos infalibles, cámara vertical libre, NPC temáticos por bioma y lógica programable AND/OR/NOT en WorldForge.",
+  "icons": [
+    {
+      "src": "assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "games",
+    "entertainment"
+  ]
+}

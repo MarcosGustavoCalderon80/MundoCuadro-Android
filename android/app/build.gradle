@@ -1,0 +1,29 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.mundocuadro.reborn'
+    compileSdk 36
+
+    defaultConfig {
+        applicationId 'com.mundocuadro.reborn'
+        minSdk 24
+        targetSdk 36
+        versionCode 1
+        versionName '1.0.0-android'
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
